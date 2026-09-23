@@ -1,5 +1,5 @@
-Description — копируй:
+Description:
 Responsive product preview card built with HTML and Tailwind CSS.
 
-Topics, если захочешь добавить:
+Topics, если:
 html tailwindcss frontend responsive-design frontend-mentor
